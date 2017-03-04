@@ -4,7 +4,7 @@
 public class Test {
     public static void main (String[] args){
         try{
-            Point point = new Point(2,9);
+            Point point = new Point(2,9111);
             point.déplacer(1,1);
             System.out.println(point.toString());
         }
