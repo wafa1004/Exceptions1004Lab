@@ -2,7 +2,7 @@
  * Created by ismail on 2017-01-31.
  */
 public class Point {
-    //private int x;
+    private int x;
     private int y;
 
 
